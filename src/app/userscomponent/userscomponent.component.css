@@ -1,0 +1,12 @@
+.totalcontent{
+  display: flex;
+  /* background-color: blue; */
+
+}
+p{
+  margin-top: 150px;
+  padding: 30px;
+  margin-left: -78%;
+  background-color: blueviolet;
+  width: 1130px;
+}

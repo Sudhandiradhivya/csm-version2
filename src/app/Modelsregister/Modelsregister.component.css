@@ -1,0 +1,115 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* position:relative; */
+}
+body{
+width: 100%;
+height: 150vh;
+background-color: rgb(49, 6, 88);
+/* position: relative; */
+}
+
+
+
+h1{
+margin: 0;
+margin-left:29%;
+margin-top: 4%;
+font-size: 50px;
+color: white;
+font-weight: 200;
+letter-spacing: 4px;
+}
+.btn{
+  display: grid;
+  position: relative;
+  width: 70%;
+}
+button{
+width: 15%;
+height: 50px;
+margin-top: 30px;
+margin-bottom: 30px;
+text-decoration: none;
+border-radius: 2px;
+border: none;
+box-shadow: -1px -1px 14px 2px rgba(129, 123, 123, 0.75);
+background: transparent;
+border-radius: 30px;
+cursor: pointer;
+color: white;
+margin-left: 20px;
+position: absolute;
+
+}
+.butt2{
+  margin-left:42%;
+  }
+.butt3{
+
+  margin-left:83%;
+
+  }
+/* .butt2{
+
+margin-left:31%;
+}
+.butt3{
+margin-top: -3%;
+margin-left:55%;
+
+} */
+a{
+text-decoration: none;
+color: white;
+font-size: 15px;
+}
+.input-group{
+font-size: 30px;
+margin-top: 90px;
+margin-left: 30%;
+color: white;
+
+}
+.input-group input{
+width:50%;
+height: 50px;
+padding: 10px;
+margin: 20px;
+border-bottom:5px 3px rgb(48, 47, 47);
+/* border: none; */
+outline: none;
+background:transparent;
+font-size: 15px;
+color: white;
+}
+.input-group input:hover{
+cursor: pointer;
+border-bottom: 2px solid rgb(93, 91, 91);
+color: white;
+}
+.inputs1 input{
+width: 50%;
+height: 70px;
+}
+.inputs select{
+width: 50%;
+height: 50px;
+margin: 20px;
+padding: 9px;
+border-bottom:1px solid rgb(214, 205, 205);
+/* border: none; */
+outline: none;
+background:transparent;
+font-size: 15px;
+color: white;
+}
+.inputs select:hover{
+cursor: pointer;
+}
+#icon:hover{
+transform: translateX(15px);
+
+}
